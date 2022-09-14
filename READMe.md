@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning .NET Core e Vue.Js
+- 🌱 I’m currently learning node.js e Vue.Js
 - 📫 How to reach me: tigaomabango@gmail.com
 
 <div>
