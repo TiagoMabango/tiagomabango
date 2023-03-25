@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning node.js e Vue.Js
-- 📫 How to reach me: tigaomabango@gmail.com
+- 🔭 I’m currently working on Back-End And Front-End 
+- 📫 How to reach me: tiagomabango@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
