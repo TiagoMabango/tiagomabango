@@ -15,4 +15,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src= "https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src= "https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
 </div>
